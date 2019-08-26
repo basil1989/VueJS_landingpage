@@ -1,4 +1,3 @@
-# Domnoo Pizza
 
 ### Landing Pizza-Shop on Vue.js
 
